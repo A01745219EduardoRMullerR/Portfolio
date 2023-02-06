@@ -12,7 +12,7 @@ code {
     monospace;
 }
 
-naviBar{
+.naviBar {
   background-color: black;
   color: aquamarine;
 }
