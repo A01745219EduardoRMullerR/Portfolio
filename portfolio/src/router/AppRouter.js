@@ -8,7 +8,7 @@ export const AppRouter = () => {
             <Navbar />
                 <div>
                     <Routes>
-                    
+                        
                     </Routes>
                 </div>
         </>
